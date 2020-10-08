@@ -11,3 +11,61 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.titlebar {
+  background-color: black;
+  height: 8em;
+}
+
+.titlebar h1 {
+  color: aliceblue;
+  text-align: center;
+  margin-top: 0;
+}
+
+table.titletable tbody tr td:first-child {
+  min-width : 91%;
+}
+
+.rightinfos {
+  color: aliceblue;
+  text-align: center;
+  background-color: #111111;
+  padding-left: 1em;
+  padding-top: 0.5em;
+  padding-right: 0.5em;
+  line-height: 1;
+  min-width: 15%;
+}
+
+.maindescriptionbar {
+  color: black;
+  text-align: center;
+  height: 2em;
+  border-bottom-color: #ABCDEF;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+}
+
+.categories {
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content: space-evenly; */
+}
+
+.categorycontainer {
+  min-width: 25%;
+}
+
+.linklist {
+  text-align: left;
+}
+
+a.rightLink:link {
+  color: aliceblue;
+  width: 90px;
+}
+
+.testLink {
+  font-size: 0.5em;
+}
