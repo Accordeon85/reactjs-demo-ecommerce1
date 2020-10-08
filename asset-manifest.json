@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/reactjs-demo-ecommerce1-website/static/css/main.da88f3d4.chunk.css",
-    "main.js": "/reactjs-demo-ecommerce1-website/static/js/main.4b54a128.chunk.js",
-    "main.js.map": "/reactjs-demo-ecommerce1-website/static/js/main.4b54a128.chunk.js.map",
-    "runtime-main.js": "/reactjs-demo-ecommerce1-website/static/js/runtime-main.732acdc1.js",
-    "runtime-main.js.map": "/reactjs-demo-ecommerce1-website/static/js/runtime-main.732acdc1.js.map",
-    "static/js/2.1b702196.chunk.js": "/reactjs-demo-ecommerce1-website/static/js/2.1b702196.chunk.js",
-    "static/js/2.1b702196.chunk.js.map": "/reactjs-demo-ecommerce1-website/static/js/2.1b702196.chunk.js.map",
-    "index.html": "/reactjs-demo-ecommerce1-website/index.html",
-    "precache-manifest.d7e7ba3a2291579d8989c8e621526e51.js": "/reactjs-demo-ecommerce1-website/precache-manifest.d7e7ba3a2291579d8989c8e621526e51.js",
-    "service-worker.js": "/reactjs-demo-ecommerce1-website/service-worker.js",
-    "static/css/main.da88f3d4.chunk.css.map": "/reactjs-demo-ecommerce1-website/static/css/main.da88f3d4.chunk.css.map",
-    "static/js/2.1b702196.chunk.js.LICENSE.txt": "/reactjs-demo-ecommerce1-website/static/js/2.1b702196.chunk.js.LICENSE.txt",
-    "static/media/default.png": "/reactjs-demo-ecommerce1-website/static/media/default.be531d31.png",
-    "static/media/fraise.png": "/reactjs-demo-ecommerce1-website/static/media/fraise.ea021390.png",
-    "static/media/guitare_classique.png": "/reactjs-demo-ecommerce1-website/static/media/guitare_classique.00ce7103.png",
-    "static/media/piano.png": "/reactjs-demo-ecommerce1-website/static/media/piano.15743033.png"
+    "main.css": "/reactjs-demo-ecommerce1/static/css/main.da88f3d4.chunk.css",
+    "main.js": "/reactjs-demo-ecommerce1/static/js/main.f5f5c3c0.chunk.js",
+    "main.js.map": "/reactjs-demo-ecommerce1/static/js/main.f5f5c3c0.chunk.js.map",
+    "runtime-main.js": "/reactjs-demo-ecommerce1/static/js/runtime-main.8735e2d9.js",
+    "runtime-main.js.map": "/reactjs-demo-ecommerce1/static/js/runtime-main.8735e2d9.js.map",
+    "static/js/2.1b702196.chunk.js": "/reactjs-demo-ecommerce1/static/js/2.1b702196.chunk.js",
+    "static/js/2.1b702196.chunk.js.map": "/reactjs-demo-ecommerce1/static/js/2.1b702196.chunk.js.map",
+    "index.html": "/reactjs-demo-ecommerce1/index.html",
+    "precache-manifest.b592e563a109b5089ade3009de67a49c.js": "/reactjs-demo-ecommerce1/precache-manifest.b592e563a109b5089ade3009de67a49c.js",
+    "service-worker.js": "/reactjs-demo-ecommerce1/service-worker.js",
+    "static/css/main.da88f3d4.chunk.css.map": "/reactjs-demo-ecommerce1/static/css/main.da88f3d4.chunk.css.map",
+    "static/js/2.1b702196.chunk.js.LICENSE.txt": "/reactjs-demo-ecommerce1/static/js/2.1b702196.chunk.js.LICENSE.txt",
+    "static/media/default.png": "/reactjs-demo-ecommerce1/static/media/default.be531d31.png",
+    "static/media/fraise.png": "/reactjs-demo-ecommerce1/static/media/fraise.ea021390.png",
+    "static/media/guitare_classique.png": "/reactjs-demo-ecommerce1/static/media/guitare_classique.00ce7103.png",
+    "static/media/piano.png": "/reactjs-demo-ecommerce1/static/media/piano.15743033.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.732acdc1.js",
+    "static/js/runtime-main.8735e2d9.js",
     "static/js/2.1b702196.chunk.js",
     "static/css/main.da88f3d4.chunk.css",
-    "static/js/main.4b54a128.chunk.js"
+    "static/js/main.f5f5c3c0.chunk.js"
   ]
 }
