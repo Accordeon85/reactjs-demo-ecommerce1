@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Accordeon85/reactjs-demo-ecommerce1-website/static/css/main.da88f3d4.chunk.css",
+    "main.js": "/Accordeon85/reactjs-demo-ecommerce1-website/static/js/main.4d85c42b.chunk.js",
+    "main.js.map": "/Accordeon85/reactjs-demo-ecommerce1-website/static/js/main.4d85c42b.chunk.js.map",
+    "runtime-main.js": "/Accordeon85/reactjs-demo-ecommerce1-website/static/js/runtime-main.2613f564.js",
+    "runtime-main.js.map": "/Accordeon85/reactjs-demo-ecommerce1-website/static/js/runtime-main.2613f564.js.map",
+    "static/js/2.1b702196.chunk.js": "/Accordeon85/reactjs-demo-ecommerce1-website/static/js/2.1b702196.chunk.js",
+    "static/js/2.1b702196.chunk.js.map": "/Accordeon85/reactjs-demo-ecommerce1-website/static/js/2.1b702196.chunk.js.map",
+    "index.html": "/Accordeon85/reactjs-demo-ecommerce1-website/index.html",
+    "precache-manifest.e7bd3bfe40d5f478902c2c919665d60b.js": "/Accordeon85/reactjs-demo-ecommerce1-website/precache-manifest.e7bd3bfe40d5f478902c2c919665d60b.js",
+    "service-worker.js": "/Accordeon85/reactjs-demo-ecommerce1-website/service-worker.js",
+    "static/css/main.da88f3d4.chunk.css.map": "/Accordeon85/reactjs-demo-ecommerce1-website/static/css/main.da88f3d4.chunk.css.map",
+    "static/js/2.1b702196.chunk.js.LICENSE.txt": "/Accordeon85/reactjs-demo-ecommerce1-website/static/js/2.1b702196.chunk.js.LICENSE.txt",
+    "static/media/default.png": "/Accordeon85/reactjs-demo-ecommerce1-website/static/media/default.be531d31.png",
+    "static/media/fraise.png": "/Accordeon85/reactjs-demo-ecommerce1-website/static/media/fraise.ea021390.png",
+    "static/media/guitare_classique.png": "/Accordeon85/reactjs-demo-ecommerce1-website/static/media/guitare_classique.00ce7103.png",
+    "static/media/piano.png": "/Accordeon85/reactjs-demo-ecommerce1-website/static/media/piano.15743033.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2613f564.js",
+    "static/js/2.1b702196.chunk.js",
+    "static/css/main.da88f3d4.chunk.css",
+    "static/js/main.4d85c42b.chunk.js"
+  ]
+}
