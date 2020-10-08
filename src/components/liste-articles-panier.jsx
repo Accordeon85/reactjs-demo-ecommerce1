@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import '../style/articles.css';
 import ArticleContainer from '../components/article-container';
 import { removeFromBasket } from "../store/action";

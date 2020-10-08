@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import TitleBar from '../components/titlebar';
 import ListeArticlesPanier from '../components/liste-articles-panier';
 import data from '../articles-data'
