@@ -20,7 +20,6 @@ const Categories = ({categories}) => {
             <h4>{element.displayName}</h4>
           </span>
         </Link>
-        <a href={`/articles/${element.name}`} className='testLink'>Lien test</a>
       </div>
     ));
 }
