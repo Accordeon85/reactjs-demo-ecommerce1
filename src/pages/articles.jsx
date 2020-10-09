@@ -13,6 +13,7 @@ const Articles = () => {
       <TitleBar />
       {subtitle}
       <ListeArticles articles={articles}/>
+      <div className='nonContractImg'>(images non contractuelles)</div>
     </div>
   );
 }

@@ -35,7 +35,9 @@ const TitleBar = ({ basket }) => {
       {' - '}
       <Link to='../articles/Guitare'>Guitares</Link>
       {' - '}
-      <Link to='../articles/Piano'>Pianos</Link> - Accordéons - Banjos - Clarinettes - Archives (articles non disponibles)
+      <Link to='../articles/Piano'>Pianos</Link> 
+      {' - '} 
+      <Link to='../articles/Accordeon'>Accordéons</Link> - Banjos - Clarinettes - Archives (articles non disponibles)
     </div>
   </div>);
 }

@@ -35,3 +35,9 @@ button.btnRemoveFromBasket:hover {
 .price {
     font-weight: bold;
 }
+
+.nonContractImg {
+    color: slategrey;
+    font-style: italic;
+    padding-left: 0.5em;
+}
