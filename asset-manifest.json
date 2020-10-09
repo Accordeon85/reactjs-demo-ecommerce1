@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/reactjs-demo-ecommerce1/static/css/main.da88f3d4.chunk.css",
-    "main.js": "/reactjs-demo-ecommerce1/static/js/main.ecae32f2.chunk.js",
-    "main.js.map": "/reactjs-demo-ecommerce1/static/js/main.ecae32f2.chunk.js.map",
+    "main.css": "/reactjs-demo-ecommerce1/static/css/main.92b423cd.chunk.css",
+    "main.js": "/reactjs-demo-ecommerce1/static/js/main.b2d1f456.chunk.js",
+    "main.js.map": "/reactjs-demo-ecommerce1/static/js/main.b2d1f456.chunk.js.map",
     "runtime-main.js": "/reactjs-demo-ecommerce1/static/js/runtime-main.8735e2d9.js",
     "runtime-main.js.map": "/reactjs-demo-ecommerce1/static/js/runtime-main.8735e2d9.js.map",
-    "static/js/2.0a22d862.chunk.js": "/reactjs-demo-ecommerce1/static/js/2.0a22d862.chunk.js",
-    "static/js/2.0a22d862.chunk.js.map": "/reactjs-demo-ecommerce1/static/js/2.0a22d862.chunk.js.map",
+    "static/js/2.01221ee6.chunk.js": "/reactjs-demo-ecommerce1/static/js/2.01221ee6.chunk.js",
+    "static/js/2.01221ee6.chunk.js.map": "/reactjs-demo-ecommerce1/static/js/2.01221ee6.chunk.js.map",
     "index.html": "/reactjs-demo-ecommerce1/index.html",
-    "precache-manifest.e01f18232646a7278c4c42bae42d6ad9.js": "/reactjs-demo-ecommerce1/precache-manifest.e01f18232646a7278c4c42bae42d6ad9.js",
+    "precache-manifest.f8d8925949f45568948d529e0695ad2b.js": "/reactjs-demo-ecommerce1/precache-manifest.f8d8925949f45568948d529e0695ad2b.js",
     "service-worker.js": "/reactjs-demo-ecommerce1/service-worker.js",
-    "static/css/main.da88f3d4.chunk.css.map": "/reactjs-demo-ecommerce1/static/css/main.da88f3d4.chunk.css.map",
-    "static/js/2.0a22d862.chunk.js.LICENSE.txt": "/reactjs-demo-ecommerce1/static/js/2.0a22d862.chunk.js.LICENSE.txt",
+    "static/css/main.92b423cd.chunk.css.map": "/reactjs-demo-ecommerce1/static/css/main.92b423cd.chunk.css.map",
+    "static/js/2.01221ee6.chunk.js.LICENSE.txt": "/reactjs-demo-ecommerce1/static/js/2.01221ee6.chunk.js.LICENSE.txt",
+    "static/media/accordeon.png": "/reactjs-demo-ecommerce1/static/media/accordeon.afeb96ba.png",
     "static/media/default.png": "/reactjs-demo-ecommerce1/static/media/default.be531d31.png",
     "static/media/fraise.png": "/reactjs-demo-ecommerce1/static/media/fraise.ea021390.png",
     "static/media/guitare_classique.png": "/reactjs-demo-ecommerce1/static/media/guitare_classique.00ce7103.png",
@@ -19,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8735e2d9.js",
-    "static/js/2.0a22d862.chunk.js",
-    "static/css/main.da88f3d4.chunk.css",
-    "static/js/main.ecae32f2.chunk.js"
+    "static/js/2.01221ee6.chunk.js",
+    "static/css/main.92b423cd.chunk.css",
+    "static/js/main.b2d1f456.chunk.js"
   ]
 }
