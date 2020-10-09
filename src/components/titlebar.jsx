@@ -11,7 +11,7 @@ const TitleBar = ({ basket }) => {
         <tbody>
           <tr>
             <td>
-              <h1>Démo e-commerce (wip)</h1>
+              <h1>Mini démo e-commerce</h1>
             </td>
             <td className="rightinfos">
               <ul className='linklist'>
